@@ -13,3 +13,10 @@ Créer un CSS définissant les classes dont les noms sont donnés par le/la chef
 Pour les hebergeur :
 Héberger le site en local pour le tester. 
 Créer la base de donnée. • Si le temps le permet, héberger le site sur un vrai hébergeur. (Votre alwaysdata par exemple, et dans ce cas il faut aussi créer la base de données sur alwaysdata.)
+
+
+# La checklist
+-[] Crée le html 
+-[] Crée le css 
+-[] herberger
+
