@@ -1,1 +1,25 @@
-title
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galerie Photo - Oiseaux</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Galerie de Photos d'Oiseaux</h1>
+
+    <a href="fichier.php">Aller vers la page PHP</a>
+
+    <div class="gallery">
+        <img src="oiseaux/1200x680.jpg" alt="Oiseau 1">
+        <img src="oiseaux/2014n02533hd.jpg" alt="Oiseau 2">
+        <img src="oiseaux/adoption-d-un-oiseau-et-responsabilite-7.jpg" alt="Oiseau 3">
+        <img src="oiseaux/oiseaux-printemps-chants.jpg" alt="Oiseau 4">
+    </div>
+
+</body>
+</html>
